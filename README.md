@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm working on improving developer experience with Pixel and Tonic (Craft CMS) by making local development with Docker simple using Nitro.
+
 <!--
 **jasonmccallister/jasonmccallister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
