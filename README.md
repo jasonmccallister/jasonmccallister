@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-I'm working on improving developer experience with Pixel and Tonic (the creators of [Craft CMS](https://craftcms.com)) by making local development with Docker simple with [Nitro](https://getnitro.sh). 
+I'm working on improving the Craft CMS hosting experience with Pixel and Tonic (the creators of [Craft CMS](https://craftcms.com)) by making deploying Craft simple with [Craft Cloud](https://craft.cloud). 
 
 ### Languages
 
-I spend the majoirty of my time in Go and PHP but also enjoying learning new languages like Rust.
-
-### Projects
-
-- [Craft Nitro](https://getnitro.sh) - A local Docker development environment for PHP without learning Docker.
+I spend the majority of my time in Go and PHP but also enjoying learning new languages like Rust.
